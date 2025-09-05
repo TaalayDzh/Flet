@@ -1,0 +1,4 @@
+"git add ." это как ctr+c и ctrl+v
+"git status" это проверка что добавилось в GIT
+git commit -m 'название коммита' Это как сохранить ctrl+s
+"git push origin master"
